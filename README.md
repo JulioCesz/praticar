@@ -1,4 +1,4 @@
-Esse projeto cria o frontend de uma loja virtual de uma pokedex.
+Esse projeto cria o frontend, desenvolvido em Javascript "vanilla", de uma loja virtual de uma pokedex.
 
 É uma anotação da aula do curso da Danki Code oferecido no seguinte link do YouTube.
 
